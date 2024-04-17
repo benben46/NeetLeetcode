@@ -1,3 +1,3 @@
-1. Neetcode: Algorithms and DS
-2. NC: Roadmap
+1. [Neetcode: Algorithms and DS](https://neetcode.io/courses/dsa-for-beginners/7)
+2. [NC: Roadmap](https://neetcode.io/roadmap)
 3. Leetcode Top 100 questions
